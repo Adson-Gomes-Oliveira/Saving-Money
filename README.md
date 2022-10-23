@@ -27,7 +27,7 @@ Aplicação de registro financeiro, sendo possível realizar um CRUD completo de
 
 ---
 
-<p align=center>*Projeto desenvolvido 100% por mim*</p>
+<p align=center>*Projeto 100% autoral*</p>
 
 ---
 
